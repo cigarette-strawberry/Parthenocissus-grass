@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="136px" height="160px" viewBox="0 0 136 160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>合并形状</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M38.1458852,0.228665585 C51.0913269,2.24182754 56.9068727,10.967763 67.9017954,10.3011751 C78.896718,9.63458721 84.7272683,2.24182754 97.6697091,0.228665585 C110.61215,-1.78449637 136.485028,9.63123781 135.179681,29.0996201 C133.874334,48.5680025 67.8867915,160.028846 67.8867915,160.028846 C67.8867915,160.028846 1.92925711,48.5713522 0.620909271,29.0996201 C-0.6784361,9.63123781 25.2004435,-1.78449637 38.1458852,0.228665585 Z" id="path-1"></path>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页-copy-5" transform="translate(-431.000000, -64.000000)">
+            <g id="分组-copy-4" transform="translate(431.000000, 64.000000)">
+                <g id="分组-19">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="合并形状" fill="#000000" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
